@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imgbanner {
+  background-image: url("./assets/bannerpizza.png");
+  background-size: cover;
+  background-position: center;
+  position: static;
+}
+
+.navbar {
+    background: #216672;
+    padding: 20px;
+}
+
+.opciones {
+    color: white;
+    text-decoration:none;
+    font-size: 25px;
+}
+
+.estilo_ul {
+    list-style: none;
+}
+
